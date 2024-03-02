@@ -1,12 +1,13 @@
 ### Olá! Eu sou Rafael Santana 😃
-
+- Cursando Ciência da Computação
+- Estudando C# .NET
 ### Rede Social
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santana11/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelsn11&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelsn11&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelsn11&hide_progress=true&theme=tokyonight)
 
 ### Tecnologias que estudo atualmente
 
