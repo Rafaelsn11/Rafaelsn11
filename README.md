@@ -23,5 +23,5 @@
     <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=tokyonight"/>
 </a>
 
-Apaixonado por tecnologia. Minha meta é entregar projetos que agregam valor e mude vidas.
+Minha meta é sempre evoluir meu conhecimento e construir projetos que agregam valor
 
