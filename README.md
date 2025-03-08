@@ -17,11 +17,12 @@
 </p>
 
 ## 🗂️ Principais Projetos
-<a href="">
-    <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=tokyonight"/>
+<a href="https://github.com/Vitor-Moura48/Estudo_de_Caso_03" target="_blank">
+  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=tokyonight" alt="Estudo de Caso 03"/>
 </a>
-<a href="">
-    <img align="center" width="340" height="280" src="https://github-readme-stats.vercel.app/api/pin?username=Rafaelsn11&repo=LibraNet&theme=tokyonight"/>
+
+<a href="https://github.com/Rafaelsn11/LibraNet" target="_blank">
+  <img align="center" width="340" height="280" src="https://github-readme-stats.vercel.app/api/pin?username=Rafaelsn11&repo=LibraNet&theme=tokyonight" alt="LibraNet"/>
 </a>
 
 Minha meta é sempre evoluir meu conhecimento e construir projetos que agregam valor
