@@ -1,14 +1,21 @@
 ## Olá! Eu sou Rafael Santana 😃
 - Cursando Ciência da Computação
 - Atualmente estudando sobre o desenvolvimento web backend
+- Apredendo sobre C#, .NET e ASPNET Core 
 ## 📱 Rede Social
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santana11/)
 
 ## 📊 Estatísticas do Perfil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelsn11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelsn11&hide_progress=true&theme=tokyonight)
+  <p style="text-align: left;">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rafaelsn11&theme=tokyonight"/>
+      </a>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafaelsn11&theme=tokyonight&layout=donut"/>
+      </a>
+  </p>
 
 ## 💻 Tecnologias que estudo atualmente
 
@@ -17,13 +24,23 @@
 </p>
 
 ## 🗂️ Principais Projetos
-<a href="https://github.com/Vitor-Moura48/Estudo_de_Caso_03" target="_blank">
-  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=tokyonight" alt="Estudo de Caso 03"/>
-</a>
+<table style="text-align: left; border-collapse: collapse;">
+  <tr>
+    <td>
+        <a href="https://github.com/Rafaelsn11/LibraNet" target="_blank">
+          <img align="center" witdh="160" src="https://github-readme-stats.vercel.app/api/pin?username=Rafaelsn11&repo=LibraNet&theme=tokyonight" alt="LibraNet"/>
+        </a>
+    </td>
+  </tr>
 
-<a href="https://github.com/Rafaelsn11/LibraNet" target="_blank">
-  <img align="center" width="340" height="280" src="https://github-readme-stats.vercel.app/api/pin?username=Rafaelsn11&repo=LibraNet&theme=tokyonight" alt="LibraNet"/>
-</a>
+  <tr>
+    <td>
+        <a href="https://github.com/Vitor-Moura48/Estudo_de_Caso_03" target="_blank">
+          <img align="center" witdh="160" src="https://github-readme-stats.vercel.app/api/pin?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=tokyonight" alt="LibraNet"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
-Minha meta é sempre evoluir meu conhecimento e construir projetos que agregam valor
+<p>Minha meta é sempre evoluir meu conhecimento e construir projetos que agregam valor.</p>
 
