@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rafael Santana 😃
 - Cursando Ciência da Computação
-- Atualmente estudando sobre o desenvolvimento web backend
-- Apredendo sobre C#, .NET e ASPNET Core 
+- Desenvolvedor Back-End .NET
+  
 ## 📱 Rede Social
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santana11/)
@@ -17,10 +17,69 @@
       </a>
   </p>
 
-## 💻 Tecnologias que estudo atualmente
+## 💻 Tecnologias e Linguagens
 
 <div style="display: inline_block"><br/>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="left"> 
+  <img 
+     alt="C#"
+     title="C#" 
+     width="60px" 
+     style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" 
+    />
+   <img 
+       alt="NetCore" 
+       title="NETCore"
+       width="60px" 
+       style="padding-right: 10px;" 
+       src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+   />
+   <img
+       alt="Git" 
+       title="Git"
+       width="60px" 
+       style="padding-right: 10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+   />
+  <img
+      alt="Python" 
+      title="Python"
+      width="60px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/python/original.svg"
+  />
+  <img
+      alt="FastApi" 
+      title="FastApi"
+      width="60px" 
+      style="padding-right: 10px;" 
+      src="https://devicon-website.vercel.app/api/fastapi/original-wordmark.svg"
+  />
+  <img
+    alt="HTML" 
+    title="HTML"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/html5/original.svg" />
+  <img
+    alt="CSS" 
+    title="CSS"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/css3/original.svg" />
+  <img
+    alt="JS" 
+    title="JS"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/javascript/original.svg" />
+  <img
+    alt="Docker" 
+    title="Docker"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/docker/original.svg" />
 </p>
 
 ## 🗂️ Principais Projetos
@@ -41,6 +100,3 @@
     </td>
   </tr>
 </table>
-
-<p>Minha meta é sempre evoluir meu conhecimento e construir projetos que agregam valor.</p>
-
